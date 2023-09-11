@@ -8,3 +8,5 @@ https://kazachenko2v.github.io/librarry/
 * React Router v.6
 * Ant design
 * Tailwind
+
+# Если api будет присылать пустой массив при любом запросе, попробуйте VPN
