@@ -7,3 +7,4 @@ https://kazachenko2v.github.io/librarry/
 * RTK Query
 * React Router v.6
 * Ant design
+* Tailwind
